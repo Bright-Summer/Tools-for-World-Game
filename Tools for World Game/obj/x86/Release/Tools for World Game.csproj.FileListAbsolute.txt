@@ -1,0 +1,15 @@
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\bin\Release\Tools for World Game.exe
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\bin\Release\Tools for World Game.pdb
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Release\Tools_for_World_Game.Form1.resources
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Release\Tools_for_World_Game.Properties.Resources.resources
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Release\Tools for World Game.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Release\Tools for World Game.exe
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Release\Tools for World Game.pdb
+D:\夏天明的文件夹\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Release\Tools for World Game.exe
+D:\夏天明的文件夹\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Release\Tools for World Game.pdb
+D:\夏天明的文件夹\Visual Studio 2010\Tools for World Game\Tools for World Game\bin\Release\Tools for World Game.exe
+D:\夏天明的文件夹\Visual Studio 2010\Tools for World Game\Tools for World Game\bin\Release\Tools for World Game.pdb
+D:\夏天明的文件夹\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Release\Tools_for_World_Game.Form1.resources
+D:\夏天明的文件夹\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Release\Tools_for_World_Game.Properties.Resources.resources
+D:\夏天明的文件夹\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Release\Tools for World Game.csproj.GenerateResource.Cache
+D:\夏天明的文件夹\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Release\Tools for World Game.csprojResolveAssemblyReference.cache

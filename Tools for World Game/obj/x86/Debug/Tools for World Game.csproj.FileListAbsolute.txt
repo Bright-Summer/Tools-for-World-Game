@@ -1,0 +1,8 @@
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\bin\Debug\Tools for World Game.exe
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\bin\Debug\Tools for World Game.pdb
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Debug\Tools for World Game.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Debug\Tools_for_World_Game.Form1.resources
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Debug\Tools_for_World_Game.Properties.Resources.resources
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Debug\Tools for World Game.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Debug\Tools for World Game.exe
+D:\Visual Studio 2010\Tools for World Game\Tools for World Game\obj\x86\Debug\Tools for World Game.pdb
